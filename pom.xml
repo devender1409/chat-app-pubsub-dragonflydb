@@ -12,7 +12,7 @@
 	<artifactId>chatapp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>chatapp</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Chat application pubsub model with dragonflydb</description>
 	<url/>
 	<licenses>
 		<license/>
